@@ -26,7 +26,7 @@
   ##
   
 <div align="center">
-   <a href = "www.linkedin.com/in/dayvid-tadeu-lima-araujo-90b99140"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" destino="_blank"></a>
-   <a href = "mailto:dayvidelta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino="_blank"></a>
-   <a href = "mailto:dayvid.araujo85@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" destino="_blank"></a>
+   <a href ="www.linkedin.com/in/dayvid-tadeu-lima-araujo-90b99140" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" destino="_blank"></a>
+   <a href ="mailto:dayvidelta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino="_blank"></a>
+   <a href ="mailto:dayvid.araujo85@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" destino="_blank"></a>
 </div  
